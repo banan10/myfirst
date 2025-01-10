@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-05T22:31:50 EET" name="Default suite" finished-at="2025-01-05T22:32:49 EET" duration-ms="59556">
+    <groups>
+    </groups>
+    <test started-at="2025-01-05T22:31:50 EET" name="Default test" finished-at="2025-01-05T22:32:49 EET" duration-ms="59556">
+      <class name="newwebsite.testing">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:newwebsite.testing@f80945f]" started-at="2025-01-05T22:31:50 EET" name="MySetup" finished-at="2025-01-05T22:32:47 EET" duration-ms="57256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="newtap()[pri:6, instance:newwebsite.testing@f80945f]" started-at="2025-01-05T22:32:47 EET" name="newtap" description="jumping to other tab" finished-at="2025-01-05T22:32:49 EET" duration-ms="2242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newtap -->
+      </class> <!-- newwebsite.testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
